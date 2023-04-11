@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Karo Mahmoud
-- 🌱 I’m currently learning Vue and C#
-- 📫 Reach me at karo.f.mahmoud@gmail.
+- 🌱 I’m currently learning Vue and React
+- 📫 Reach me at karo.f.mahmoud@gmail.com
 
 <!-- ![Profile views](https://gpvc.arturio.dev/karofmah) -->
 
