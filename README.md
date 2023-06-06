@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Karo Mahmoud
-- 🌱 I’m currently learning Vue and React
+- 🌱 I’m currently learning React
 - 📫 Reach me at karo.f.mahmoud@gmail.com
 
 <!-- ![Profile views](https://gpvc.arturio.dev/karofmah) -->
