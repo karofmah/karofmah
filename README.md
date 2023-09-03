@@ -1,7 +1,7 @@
 - 👋 Hi, I'm Karo Mahmoud
 - 🌱 I’m currently learning React and C#
 - 📫 Reach me at karo.f.mahmoud@gmail.com
-- 🌐 Check out my [portfolio webpage](https://my-eportfolio-karofmah.vercel.app/)
+- 🌐 Check out my [e-portfolio](https://my-eportfolio-karofmah.vercel.app/)
 
 <!-- ![Profile views](https://gpvc.arturio.dev/karofmah) -->
 
