@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Karo Mahmoud
-- 🌱 I’m currently learning React and C#
+- 🌱 I’m currently learning Kotlin, React and C#
 - 📫 Reach me at karo.f.mahmoud@gmail.com
 - 🌐 Check out my [e-portfolio](https://my-eportfolio-karofmah.vercel.app/)
 
