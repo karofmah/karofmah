@@ -5,5 +5,7 @@
 
 <!-- ![Profile views](https://gpvc.arturio.dev/karofmah) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karofmah&theme=dark)](https://github.com/karofmah/github-r=karofmah)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karofmah&theme=dark)](https://github.com/karofmah/github-r=karofmah)-->
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=karofmah&theme=dark)
 
